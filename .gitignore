@@ -1,0 +1,5 @@
+.idea
+target
+dependency-reduced-pom.xml
+src/main/resources/twitter4j.properties
+config.yml
